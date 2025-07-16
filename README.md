@@ -28,9 +28,5 @@ This project explores the **Life Expectancy dataset** to uncover insights about 
 ## 📌 Dataset Source
 [Life Expectancy Data – WHO via Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
-
-> **Author**: Anantha Krishnan K  
-> **Tags**: EDA, Statistics, Python, Jupyter, Kaggle, Visualization
-
 > **Author**: Anantha Krishnan K  
 > **Tags**: EDA, Statistics, Python, Jupyter, Kaggle, Visualization
